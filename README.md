@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Lukas, a PhD student in the [Process Intellgence Research](https://www.pi-research.org/) at the Delft University of Technology supervised by [Artur Schweidtmann](https://www.linkedin.com/in/schweidtmann/). My research focuses on artificial intelligence in chemical enginnering :hammer_and_wrench::robot:, but I am also interested in generative modeling:atom_symbol:, knowledge graphs 🕸️, and AI4Science 🧪. Besides that, I like bouldering and climbing :climbing_man:.
+I’m Lukas, a PhD student in the [Process Intellgence Research](https://www.pi-research.org/) at the Delft University of Technology supervised by [Artur Schweidtmann](https://www.linkedin.com/in/schweidtmann/). I am a mechanical engineer by training, specialized on renewable energy systems. Now, my research focuses on artificial intelligence in chemical enginnering :robot:, but I am also interested in generative modeling:atom_symbol:, knowledge graphs 🕸️, and AI4Science 🧪. Besides that, I like bouldering and climbing :climbing_man:.
 
 Check out my google scholar [here](https://scholar.google.com/citations?user=LZZ7piQAAAAJ&hl=en).
 
